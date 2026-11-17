@@ -6,38 +6,39 @@
 FINANCIAL_AID_FACTS = [
     {
         "topic": "financial aid apply application fafsa eligibility grant loan aid",
-        "answer": "Financial aid is handled by Enrollment Services. Most students start with the FAFSA. "
-                  "Check the official page for current steps and deadlines.",
-        "source": "https://www.onestop.uc.edu/",
-        "last_checked": "TODO",
+        "answer": "Complete your FAFSA now to avoid delays to your financial aid. Check Catalyst for your "
+                  "financial aid award offer, and complete any items on your Catalyst To-Do List. "
+                  "Financial aid questions go to Enrollment Services.",
+        "source": "https://www.onestop.uc.edu/financial-aid.html",
+        "last_checked": "2026-11-17",
     },
     {
         "topic": "scholarship scholarships award awards merit",
-        "answer": "Scholarship information and deadlines are listed on the Enrollment Services page. "
-                  "Check the official page for the current scholarship list.",
-        "source": "https://www.onestop.uc.edu/",
-        "last_checked": "TODO",
+        "answer": "Scholarships are listed under Financial Aid on the Enrollment Services site. The page does not "
+                  "list scholarship deadlines or amounts, so check the scholarships section for details.",
+        "source": "https://www.onestop.uc.edu/financial-aid.html",
+        "last_checked": "2026-11-17",
     },
     {
         "topic": "tuition cost credit rate per fees fee",
-        "answer": "Tuition, cost per credit, and student fees are set by the university and change each year. "
-                  "Check the official page for the current rate.",
+        "answer": "Tuition & Fees is listed under Billing & Payment on the Enrollment Services site. The page does "
+                  "not list the current rate, so check that section for the amount.",
         "source": "https://www.onestop.uc.edu/",
-        "last_checked": "TODO",
+        "last_checked": "2026-11-17",
     },
     {
         "topic": "bill bills billing payment pay bursar due",
-        "answer": "Billing and payment questions, including the bursar and due dates, go to Enrollment Services. "
-                  "Check the official page for payment options.",
+        "answer": "Billing & Payment is a section of the Enrollment Services site, and it includes Tuition & Fees. "
+                  "Check that section for payment options and due dates.",
         "source": "https://www.onestop.uc.edu/",
-        "last_checked": "TODO",
+        "last_checked": "2026-11-17",
     },
     {
         "topic": "transcript transcripts registrar records student status enrollment verification",
-        "answer": "Transcripts, student records, and enrollment verification are handled by the Registrar, "
-                  "part of Enrollment Services. Check the official page for request steps.",
-        "source": "https://www.onestop.uc.edu/",
-        "last_checked": "TODO",
+        "answer": "Order Transcripts is listed under Registration & Records on the Enrollment Services site. "
+                  "Use that section to request transcripts.",
+        "source": "https://www.onestop.uc.edu/registration.html",
+        "last_checked": "2026-11-17",
     },
 ]
 
